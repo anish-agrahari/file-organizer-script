@@ -53,6 +53,6 @@ def organize_directory(path):
     print("\nFile organization complete!")
 
 if __name__ == "__main__":
-    target_directory = "C:/sem7"
+    target_directory = " "
 
     organize_directory(target_directory)
