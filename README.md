@@ -23,7 +23,7 @@ Python 3: This script requires Python 3 to be installed on your system. You can 
 Installation & Usage
 Clone the repository (or download the script):
 
-git clone [https://github.com/your-username/file-organizer.git](https://github.com/your-username/file-organizer.git)
+git clone [https://github.com/anish-agrahari/file-organizer-script.git](https://github.com/anish-agrahari/file-organizer-script.git)
 cd file-organizer
 
 Alternatively, you can just download the organizer.py script directly.
